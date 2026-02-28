@@ -24,7 +24,7 @@ This Power BI dashboard provides a comprehensive analysis of IPL seasons from 20
 ---
 
 ## 📷 Dashboard Preview
-![IPL Dashboard](ipl_analysis_ashboard.png)
+![IPL Dashboard](ipl_analysis_dashboard.png)
 
 ---
 
